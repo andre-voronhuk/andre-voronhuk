@@ -3,7 +3,8 @@
 você pode me encontrar da seguinte forma:
 
 :video_game: Discord: Voronhuk#2875<br>
-:e-mail: Gmail: andrevoronhuk@gmail.com
+:e-mail: Gmail: andrevoronhuk@gmail.com<br>
+💼 LinkedIn: https://www.linkedin.com/in/andré-voronhuk-3349a11b0/
 
 ### :coffee: Pegue uma xícara de Café e fique à vontade para olhar o quanto achar necessário!
 <!--
