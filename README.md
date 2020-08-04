@@ -1,9 +1,15 @@
-### Hi there 👋
+### :blush:Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim, se quiser a lista de Links para o GitHub Pages acesse o repositorio 'INDICE'!
 
+você pode me encontrar da seguinte forma:
+
+:video_game: Discord: Voronhuk#2875<br>
+:e-mail: Gmail: andrevoronhuk@gmail.com
+
+### :coffee: Pegue uma xícara de Café e fique à vontade para olhar o quanto achar necessário!
 <!--
 **andre-voronhuk/andre-voronhuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
