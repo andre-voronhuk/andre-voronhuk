@@ -1,4 +1,4 @@
-### :blush:Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim, se quiser a lista de Links para o GitHub Pages acesse o repositorio 'INDICE'!
+### :blush: Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim, se quiser a lista de Links para o GitHub Pages acesse o repositorio 'INDICE'!
 
 você pode me encontrar da seguinte forma:
 
