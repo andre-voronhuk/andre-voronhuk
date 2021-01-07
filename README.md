@@ -1,7 +1,7 @@
-### :blush: Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim !
-# A lista de Links para o GitHub Pages acesse o repositorio 'INDICE'! 
+# :blush: Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim !
+### A lista de Links para o GitHub Pages acesse o repositorio 'INDICE'! 
 <hr>
-você pode me encontrar da seguinte forma:
+####você pode me encontrar da seguinte forma:
 
 :video_game: Discord: Voronhuk#2875<br>
 :e-mail: Gmail: andrevoronhuk@gmail.com<br>
