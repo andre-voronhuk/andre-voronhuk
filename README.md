@@ -4,6 +4,7 @@
 
 ### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
 <hr>
+
 ### Você pode me encontrar da seguinte forma:
 
 :video_game: Discord: Voronhuk#2875<br>
