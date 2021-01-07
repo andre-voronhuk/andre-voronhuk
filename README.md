@@ -1,5 +1,5 @@
 # :blush: Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim !
-### A lista de Links para o GitHub Pages acesse o repositorio 'INDICE'! 
+### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
 <hr>
 ### Você pode me encontrar da seguinte forma:
 
