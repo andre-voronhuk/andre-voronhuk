@@ -1,4 +1,7 @@
-# :blush: Olá! Você pode dar uma olhada em alguns projetos abaixo feitos por mim !
+#               :blush: Seja Bem-Vindo :blush:
+
+# Você pode dar uma olhada em alguns projetos feitos por mim!
+
 ### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
 <hr>
 ### Você pode me encontrar da seguinte forma:
