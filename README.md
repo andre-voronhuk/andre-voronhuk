@@ -15,7 +15,7 @@
 :video_game: Discord: Voronhuk#2875<br>
 :e-mail: Gmail: andrevoronhuk@gmail.com<br>
 💼 LinkedIn: https://www.linkedin.com/in/andré-voronhuk-3349a11b0/
-
+<br><br><br><hr>
 ### :coffee: Pegue uma xícara de Café e fique a vontade para olhar o quanto achar necessário!
 
 
