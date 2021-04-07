@@ -7,7 +7,7 @@
 ### Você pode dar uma olhada em alguns projetos feitos por mim!
 
 
-## [Clique Aqui!](https://breakdance.github.io/breakdance/) para ver os principais projetos!
+## [Clique Aqui!](https://github.com/andre-voronhuk/INDICE/blob/master/README.md) para ver os principais projetos!
 
 
 ### Você pode me encontrar da seguinte forma:
