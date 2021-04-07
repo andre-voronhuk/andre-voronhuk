@@ -1,10 +1,10 @@
 
 
-<p align="center">
-  :blush: Seja Bem-Vindo! :blush:
-</p>
 
-<br> <hr>
+## :blush: Seja Bem-Vindo! :blush:
+
+
+<br>
 
 
 ## [Clique Aqui!](https://github.com/andre-voronhuk/INDICE/blob/master/README.md) para ver os principais projetos feitos por mim!
