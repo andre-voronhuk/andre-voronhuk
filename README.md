@@ -9,7 +9,7 @@
 
 ## [Clique Aqui!](https://github.com/andre-voronhuk/INDICE/blob/master/README.md) para ver os principais projetos feitos por mim!
 
-
+<br><br><hr>
 ### Você pode me encontrar da seguinte forma:
 
 :video_game: Discord: Voronhuk#2875<br>
