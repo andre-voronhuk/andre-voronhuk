@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  #  :blush: Seja Bem-Vindo! :blush:
+  # :blush: Seja Bem-Vindo! :blush:
 </p>
 
 # Você pode dar uma olhada em alguns projetos feitos por mim!
