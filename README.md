@@ -1,7 +1,7 @@
 
 
-<p align="center">
-  <h1> :blush: Seja Bem-Vindo! :blush: </h1>
+<p align="center" style="font-size:32px;">
+  :blush: Seja Bem-Vindo! :blush:
 </p>
 
 # Você pode dar uma olhada em alguns projetos feitos por mim!
