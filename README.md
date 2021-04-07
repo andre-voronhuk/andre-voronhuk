@@ -12,8 +12,27 @@
 💼 LinkedIn: https://www.linkedin.com/in/andré-voronhuk-3349a11b0/
 
 ### :coffee: Pegue uma xícara de Café e fique a vontade para olhar o quanto achar necessário!
+
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~bao
+Esta é uma linha de código em HTML.
+~~~
+
 <!--
 **andre-voronhuk/andre-voronhuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
 
 - Here are some ideas to get you started:
 
