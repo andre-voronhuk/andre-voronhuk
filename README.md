@@ -4,10 +4,10 @@
   :blush: Seja Bem-Vindo! :blush:
 </p>
 
-### Você pode dar uma olhada em alguns projetos feitos por mim!
+<br> <hr>
 
 
-## [Clique Aqui!](https://github.com/andre-voronhuk/INDICE/blob/master/README.md) para ver os principais projetos!
+## [Clique Aqui!](https://github.com/andre-voronhuk/INDICE/blob/master/README.md) para ver os principais projetos feitos por mim!
 
 
 ### Você pode me encontrar da seguinte forma:
