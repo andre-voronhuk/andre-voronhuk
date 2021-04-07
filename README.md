@@ -1,9 +1,13 @@
 
-# : :blush: Seja Bem-Vindo :blush:: 
+
+<p align="center">
+  #  :blush: Seja Bem-Vindo! :blush:
+</p>
 
 # Você pode dar uma olhada em alguns projetos feitos por mim!
 
-### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
+
+[Clique Aqui!](https://breakdance.github.io/breakdance/) para ver os principais projetos!
 
 
 ### Você pode me encontrar da seguinte forma:
