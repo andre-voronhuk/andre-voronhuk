@@ -1,9 +1,9 @@
 #               :blush: Seja Bem-Vindo :blush:
 
 # Você pode dar uma olhada em alguns projetos feitos por mim!
-
+~~~
 ### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
-<hr>
+~~~
 
 ### Você pode me encontrar da seguinte forma:
 
@@ -14,17 +14,6 @@
 ### :coffee: Pegue uma xícara de Café e fique a vontade para olhar o quanto achar necessário!
 
 
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~bao
-Esta é uma linha de código em HTML.
-~~~
 
 <!--
 **andre-voronhuk/andre-voronhuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
