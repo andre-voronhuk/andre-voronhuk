@@ -1,9 +1,10 @@
-#               :blush: Seja Bem-Vindo :blush:
-
+~~~
+: :blush: Seja Bem-Vindo :blush:: 
+~~~
 # Você pode dar uma olhada em alguns projetos feitos por mim!
-~~~
+
 ### A lista de Links para o GitHub Pages está no repositorio 'INDICE'! 
-~~~
+
 
 ### Você pode me encontrar da seguinte forma:
 
