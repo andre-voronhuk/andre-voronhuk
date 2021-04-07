@@ -1,13 +1,13 @@
 
 
-<p align="center" style="font-size:32px;">
+<p align="center">
   :blush: Seja Bem-Vindo! :blush:
 </p>
 
-# Você pode dar uma olhada em alguns projetos feitos por mim!
+### Você pode dar uma olhada em alguns projetos feitos por mim!
 
 
-[Clique Aqui!](https://breakdance.github.io/breakdance/) para ver os principais projetos!
+## [Clique Aqui!](https://breakdance.github.io/breakdance/) para ver os principais projetos!
 
 
 ### Você pode me encontrar da seguinte forma:
